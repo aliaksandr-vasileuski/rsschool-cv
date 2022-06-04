@@ -55,5 +55,11 @@
 * Academy Belhard (HTML, CSS)  
 * Academy Belhard (Modern Front-End with JavaScript and HTML5)  
 
+===  
+
+### Languages:  
+* Belarusian, russian-native  
+* English-I am currently taking courses  
+
 ===
 
