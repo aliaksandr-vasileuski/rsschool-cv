@@ -14,7 +14,19 @@
 
 ### About Myself:  
 
-I have been working in construction since 2010.  
-I have been studying web development for about a year.  
-I really like it and want to develop in this area.  
+###### I have been working in construction since 2010.  
+###### I have been studying web development for about a year.  
+###### I really like it and want to develop in this area.  
+===  
+
+### Skills and Proficiency:  
+
+* HTML  
+* CSS  
+* JS  
+* SCSS  
+* Angular  
+* React  
+* BEM  
 ===
+
