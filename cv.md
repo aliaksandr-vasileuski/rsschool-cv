@@ -1,8 +1,11 @@
-# rsschool-cv
+# rsschool-cv  
+
 ===
-# Aliaksandr Vasileuski
+# Aliaksandr Vasileuski  
+
 ====
-# Junior Frontend Developer
+# Junior Frontend Developer  
+
 ===
 
 ### Contact information:
@@ -17,6 +20,7 @@
 ###### I have been working in construction since 2010.  
 ###### I have been studying web development for about a year.  
 ###### I really like it and want to develop in this area.  
+
 ===  
 
 ### Skills and Proficiency:  
@@ -28,5 +32,22 @@
 * Angular  
 * React  
 * BEM  
+
+===
+
+### Code example:  
+
+```
+
+        let s = "";
+            for (i=1; i<=10; i++) {
+                // s = s + i + " ";
+                s +=  i + " ";
+            }
+
+        id1.innerHTML = s;
+        
+        
+```  
 ===
 
