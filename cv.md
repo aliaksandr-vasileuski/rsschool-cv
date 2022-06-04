@@ -7,6 +7,14 @@
 
 ### Contact information:
 
-**Phone:** +375 29 212 61 47
-**E-mail:** ramon1986@list.ru
-[LinkedIn](https://www.linkedin.com/in/aliaksandr-vasileuski-589495214/)
+**Phone:** +375 29 212 61 47  
+**E-mail:** ramon1986@list.ru  
+[LinkedIn](https://www.linkedin.com/in/aliaksandr-vasileuski-589495214/)  
+===  
+
+### About Myself:  
+
+I have been working in construction since 2010.  
+I have been studying web development for about a year.  
+I really like it and want to develop in this area.  
+===
