@@ -2,7 +2,7 @@
 
 ===
 # Aliaksandr Vasileuski  
-
+![](./img/111.jpg)
 ====
 # Junior Frontend Developer  
 
