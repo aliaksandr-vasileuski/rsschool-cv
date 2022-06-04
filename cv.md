@@ -50,6 +50,7 @@
         
         
 ```  
+[github](https://github.com/aliaksandr-vasileuski/rsschool-cv) 
 ===  
 
 ### Courses:  
