@@ -21,7 +21,7 @@
 ###### I have been studying web development for about a year.  
 ###### I really like it and want to develop in this area.  
 
-===  
+=== 
 
 ### Skills and Proficiency:  
 
@@ -49,5 +49,11 @@
         
         
 ```  
+===  
+
+### Courses:  
+* Academy Belhard (HTML, CSS)  
+* Academy Belhard (Modern Front-End with JavaScript and HTML5)  
+
 ===
 
