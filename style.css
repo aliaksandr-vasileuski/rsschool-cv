@@ -1,12 +1,16 @@
 body {
     display: flex;
-    flex-direction: column;
-    max-width: 800px;
-    padding: 0, auto;
+    justify-content: center;
+    text-align: center;   
+}
+
+div {
+    max-width: 300px;  
       
 }
+
 img {
-       width: 200px;
-       height: 230px;
+    width: 200px;
+    height: 230px;
    } 
 
