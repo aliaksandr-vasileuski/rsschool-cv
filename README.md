@@ -1,1 +1,1 @@
-< https://aliaksandr-vasileuski.github.io/rsschool-cv/ >
+<https://aliaksandr-vasileuski.github.io/rsschool-cv/>
